@@ -1,6 +1,6 @@
 # MERN Finance Dashboard App
 
-The frontend was built using Vite, Redux Toolkit for state management, Material UI for component library, and Recharts for charts. The backend was built using Node Js for the runtime, Express Js as a backend framework and MongoDB for the database.
+The frontend was built using Vite, Redux Toolkit for state management, Material UI for component library, and Recharts for charts. The backend was built using NodeJS for the runtime, ExpressJS as a backend framework and MongoDB for the database.
 
 ## Description
 
