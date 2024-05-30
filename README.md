@@ -2,6 +2,8 @@
 
 The frontend was built using TypeScript, React, Vite, Redux Toolkit for state management, RTK Query for fetching data, Material UI for components library and Recharts for charts. The backend was built using NodeJS for the runtime, ExpressJS as a backend framework and MongoDB for the database.
 
+<img width="700" alt="Screenshot 2024-05-30 at 10 42 01 AM" src="https://github.com/daria-dudka/FinanceDashboard/assets/66278954/6201c2ae-4404-462e-b9ae-23a31c635f6b">
+
 ## Description
 
 This project uses:
